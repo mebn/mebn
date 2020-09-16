@@ -1,5 +1,11 @@
 ### Hello World! 👋
 
+           _
+       .__(.)< (MEOW)
+        \___)   
+ ~~~~~~~~~~~~~~~~~~
+
+
 <!--
 **mebn/mebn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
